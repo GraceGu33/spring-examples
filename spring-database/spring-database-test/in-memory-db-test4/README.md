@@ -1,10 +1,10 @@
-Essai in-memory-db-test3
+Unit Testing with an In-Memory Database for a Spring/Hibernate Project
 =======
 
 Overview
 -------
 
-This project `in-memory-db-test3`:
+This project `in-memory-db-test4`:
 
 * puts together the code from article:
 

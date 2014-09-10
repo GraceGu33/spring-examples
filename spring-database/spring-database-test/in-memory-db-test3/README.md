@@ -1,4 +1,4 @@
-Essai in-memory-db-test3
+Unit Testing with an In-Memory Database for a Spring/Hibernate Project
 =======
 
 Overview
