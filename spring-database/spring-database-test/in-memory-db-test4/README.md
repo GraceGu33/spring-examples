@@ -34,7 +34,7 @@ Notes
 
 >[Isolation support for JPA with Hibernate EntityManager 4](https://jira.spring.io/browse/SPR-11942)
 
-(°°) And drops Hibernate 
+(°°) And drops Hibernate SchemaExport
 
 Running the sample
 -------

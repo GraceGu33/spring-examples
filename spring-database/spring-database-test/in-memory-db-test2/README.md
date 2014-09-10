@@ -15,7 +15,9 @@ This project `in-memory-db-test2`:
 >* Hibernate 4.3.6
 >* commons-dbcp 2.0.1
 
-* replaces Hibernate API by JPA 2.1.
+* replaces Hibernate API by JPA 2.1
+
+* does some refactoring.
 
 
 Using Hibernate 4, JPA 2.1 can be specified.
