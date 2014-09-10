@@ -1,10 +1,11 @@
-Essai in-memory-db-test2
+Essai in-memory-db-test3
 =======
 
 Overview
 -------
 
-This project `in-memory-db-test2`:
+This project `in-memory-db-test3`:
+
 * puts together the code from article:
 
 >[Unit Testing with an In-Memory Database for a Spring/Hibernate Project](http://whileonefork.blogspot.fr/2012/11/unit-testing-with-in-memory-database.html)
@@ -15,7 +16,10 @@ This project `in-memory-db-test2`:
 >* Hibernate 4.3.6
 >* commons-dbcp 2.0.1
 
-* replaces Hibernate API by JPA 2.1.
+* replaces Hibernate API by JPA 2.1
+
+* replaces XML Spring configuration with a (almost) pure java one.
+
 
 
 Using Hibernate 4, JPA 2.1 can be specified.
@@ -28,6 +32,13 @@ Note (°). In fact Spring 4.1.0.RC2 is required, see:
 Running the sample
 -------
 
-You can run the tests from the command line:
+You can run the tests:
+
+* from the command line with
 
 		mvn clean test
+		
+* under Eclipse, select the project then launch the configuration
+        
+		in-memory-db-test3_clean_test.launch
+        	
