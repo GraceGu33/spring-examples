@@ -36,7 +36,7 @@ You can run the tests:
 
 * from the command line with
 
-		mvn clean test
+		mvn clean test -P no-repo-server
 		
 * under Eclipse, select the project then launch the configuration
         

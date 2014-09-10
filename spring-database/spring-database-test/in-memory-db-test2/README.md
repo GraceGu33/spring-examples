@@ -32,4 +32,4 @@ Running the sample
 
 You can run the tests from the command line:
 
-		mvn clean test
+		mvn clean test -P no-repo-server
